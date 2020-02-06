@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27109620916",
+    "firebase_url": "https://celentano-pizza-app.firebaseio.com",
+    "project_id": "celentano-pizza-app",
+    "storage_bucket": "celentano-pizza-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27109620916:android:13cddab196850d42e06be1",
+        "android_client_info": {
+          "package_name": "com.pizzacelentano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27109620916-skhh4oaclkru8omsqbiv3ec335i46ein.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnqH7Fnnxgn1v3_UFm5PJ1pmkbaAH-TEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27109620916-skhh4oaclkru8omsqbiv3ec335i46ein.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
